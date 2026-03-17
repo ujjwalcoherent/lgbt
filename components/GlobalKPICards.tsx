@@ -274,6 +274,11 @@ export function GlobalKPICards() {
             </div>
           </div>
         </div>
+
+        {/* Demo Data Note */}
+        <div className="mt-3 px-3 py-2 bg-amber-50 border border-amber-300 rounded text-xs text-amber-800 font-medium">
+          <strong>NOTE:</strong> All the data in the dashboard is demo data. No real-world data is related to this.
+        </div>
       </div>
     </div>
   )
