@@ -1,28 +1,36 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Traveller Type": {
+      "Friends / Group Travellers": {},
+      "Solo Travellers": {},
+      "Couples": {},
+      "Family Travellers": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Travel Purpose": {
+      "Leisure Tourism": {},
+      "Pride / Event Tourism": {},
+      "Honeymoon & Wedding Tourism": {},
+      "Adventure Tourism": {},
+      "Cultural Tourism": {},
+      "Cruise Tourism": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Service Provider": {
+      "Hospitality & Lodging": {},
+      "Airlines & Transportation": {},
+      "Travel Agencies / Tour Operators": {},
+      "Cruise Lines": {},
+      "Destination Management Companies": {}
     },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By Gender / Identity": {
+      "Lesbian": {},
+      "Gay": {},
+      "Bisexual": {},
+      "Transgender": {},
+      "Others": {}
+    },
+    "By Booking Channel": {
+      "Online": {},
+      "Offline": {}
     },
     "By Region": {
       "North America": {
